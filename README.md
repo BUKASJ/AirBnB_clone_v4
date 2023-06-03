@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Lara Jimoh - [Github] (https://github.com/Laracious) / [Twitter] (https://twitter.com/AmokeOmolara)
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Chukwuebuka Ede - [Github](https://github.com/bukasj) / [twitter](https://twitter.com/Bukas_J)
 
